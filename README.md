@@ -37,11 +37,11 @@
 ### 📚 Portafolio
 | Módulo | Proyecto | Stack | Repo |
 |---|---|---|---|
-| M0 | Limpieza e insights en retail (FactSales) | Excel + Power Query | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
-| M1 | Dashboard operativo (ventas/KPIs) | Google Sheets (ETL + Viz)
-| M2 | Analytics fast-food | SQL Server
-| M3 | Sales dashboard AdventureWorks | Power BI 
-| M4 | EDA COVID | Python (pandas, viz) 
+| P0 | Limpieza e insights en retail (FactSales) | Excel + Power Query | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
+| P1 | Dashboard operativo (ventas/KPIs) | Google Sheets (ETL + Viz) |🔗 [google-sheets-ops-dashboard](https://github.com/ESanchezSalas/google-sheets-ops-dashboard) |
+| P2 | Analytics fast-food | SQL Server
+| P3 | Sales dashboard AdventureWorks | Power BI 
+| P4 | EDA COVID | Python (pandas, viz) 
 
 > *Tip:* iré agregando capturas y README detallados en cada repo.
 
