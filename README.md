@@ -33,8 +33,6 @@
 </p>
 
 ---
-
-### 📚 Portafolio
 ## 📚 Portafolio
 
 | Módulo | Proyecto                                     | Stack                               | Repo |
