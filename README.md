@@ -39,9 +39,9 @@
 |---|---|---|---|
 | P0 | Limpieza e insights en retail (FactSales) | Excel + Power Query | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
 | P1 | Dashboard operativo (ventas/KPIs) | Google Sheets (ETL + Viz) |🔗 [google-sheets-ops-dashboard](https://github.com/ESanchezSalas/google-sheets-ops-dashboard) |
-| P2 | Analytics fast-food | SQL Server
-| P3 | Sales dashboard AdventureWorks | Power BI 
-| P4 | EDA COVID | Python (pandas, viz) 
+| P2 | Analytics fast-food                    | SQL Server            | 🔗 [sqlserver-fastfood-analytics](https://github.com/ESanchezSalas/sqlserver-fastfood-analytics) |
+| P3 | Sales dashboard AdventureWorks         | Power BI              | 🔗 [powerbi-adventureworks-sales](https://github.com/ESanchezSalas/powerbi-adventureworks-sales) |
+| P4 | EDA COVID                              | Python (pandas, viz)  | 🔗 [python-covid-eda-dashboard](https://github.com/ESanchezSalas/python-covid-eda-dashboard)     |
 
 > *Tip:* iré agregando capturas y README detallados en cada repo.
 
