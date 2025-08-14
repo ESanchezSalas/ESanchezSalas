@@ -35,7 +35,7 @@
 ---
 ## 📚 Portafolio
 
-| Módulo | Proyecto                                     | Stack                               | Repo |
+|Proyecto | Nombre                                      | Stack                               | Repo |
 |-------:|----------------------------------------------|-------------------------------------|------|
 | P0     | Limpieza e insights en retail (FactSales)     | Excel + Power Query                 | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
 | P1     | Dashboard operativo (ventas/KPIs)             | Google Sheets (ETL + Viz)           | 🔗 [google-sheets-ops-dashboard](https://github.com/ESanchezSalas/google-sheets-ops-dashboard) |
