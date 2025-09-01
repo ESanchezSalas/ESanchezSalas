@@ -1,3 +1,6 @@
+
+Aquí tienes tu README completo con el nuevo proyecto (P5) ya agregado. Copia y pega tal cual:
+
 <!-- Banner (opcional) -->
 <p align="center">
   <img src="./bannerv2.png?raw=1" alt="Eric Sanchez - Data Analyst (Admin & Finance)" width="100%" />
@@ -35,14 +38,14 @@
 ---
 ## 📚 Portafolio
 
-|Proyecto | Nombre                                      | Stack                               | Repo |
-|-------:|----------------------------------------------|-------------------------------------|------|
-| P0     | Limpieza e insights en retail (FactSales)     | Excel + Power Query                 | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
-| P1     | Dashboard operativo (ventas/KPIs)             | Google Sheets (ETL + Viz)           | 🔗 [google-sheets-ops-dashboard](https://github.com/ESanchezSalas/google-sheets-ops-dashboard) |
-| P2     | Analytics fast-food                           | SQL Server                          | 🔗 [sqlserver-fastfood-analytics](https://github.com/ESanchezSalas/sqlserver-fastfood-analytics) |
-| P3     | Sales dashboard AdventureWorks                | Power BI                            | 🔗 [powerbi-adventureworks-sales-dashboard](https://github.com/ESanchezSalas/powerbi-adventureworks-sales-dashboard) |
-| P4     | EDA COVID                                     | Python (pandas, viz) + Power BI     | 🔗 [covid-analytics-python-powerbi](https://github.com/ESanchezSalas/covid-analytics-python-powerbi) |
-
+| Proyecto | Nombre                                      | Stack                                   | Repo |
+|--------:|----------------------------------------------|-----------------------------------------|------|
+| P0      | Limpieza e insights en retail (FactSales)    | Excel + Power Query                     | 🔗 [excel-cleaning-insights-retail](https://github.com/ESanchezSalas/excel-cleaning-insights-retail) |
+| P1      | Dashboard operativo (ventas/KPIs)            | Google Sheets (ETL + Viz)               | 🔗 [google-sheets-ops-dashboard](https://github.com/ESanchezSalas/google-sheets-ops-dashboard) |
+| P2      | Analytics fast-food                          | SQL Server                              | 🔗 [sqlserver-fastfood-analytics](https://github.com/ESanchezSalas/sqlserver-fastfood-analytics) |
+| P3      | Sales dashboard AdventureWorks               | Power BI                                | 🔗 [powerbi-adventureworks-sales-dashboard](https://github.com/ESanchezSalas/powerbi-adventureworks-sales-dashboard) |
+| P4      | EDA COVID                                    | Python (pandas, viz) + Power BI         | 🔗 [covid-analytics-python-powerbi](https://github.com/ESanchezSalas/covid-analytics-python-powerbi) |
+| P5  | Inventario predictivo                            | Python (pandas, scikit-learn) + SQL + Power BI | 🔗 [inventario-predictivo](https://github.com/ESanchezSalas/inventario-predictivo) |
 
 ---
 
@@ -55,11 +58,3 @@
 ### 🎓 Formación
 - **Bootcamp Data Analytics (Henry, 2025)** — Excel/Power Query, Power BI, SQL, Python (pandas, NumPy, matplotlib/seaborn).  
 - **Administrador de Empresas**, U. Colegio Mayor de Cundinamarca.
-
----
-
-### 🤝 Conectemos
-- LinkedIn: **https://www.linkedin.com/in/erics1591/**
-- Email: **erics1591@hotmail.com**
-- Bogotá · Remoto global / Híbrido local
-
