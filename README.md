@@ -1,6 +1,4 @@
 
-Aquí tienes tu README completo con el nuevo proyecto (P5) ya agregado. Copia y pega tal cual:
-
 <!-- Banner (opcional) -->
 <p align="center">
   <img src="./bannerv2.png?raw=1" alt="Eric Sanchez - Data Analyst (Admin & Finance)" width="100%" />
