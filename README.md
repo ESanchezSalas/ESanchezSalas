@@ -1,7 +1,7 @@
 
 <!-- Banner (opcional) -->
 <p align="center">
-  <img src="./bannerv2.png?raw=1" alt="Eric Sanchez - Data Analyst (Admin & Finance)" width="100%" />
+  <img src="banner_v3.png" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Eric Sanchez</h1>
