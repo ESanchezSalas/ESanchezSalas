@@ -4,34 +4,43 @@
   <img src="banner_v3.png" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Eric Sanchez</h1>
-<p align="center">
-  <b>Data Analyst (administración & finanzas)</b> — 11+ años optimizando reporting y procesos.<br/>
-  Excel/Power Query · Power BI · SQL · Python (pandas, NumPy; matplotlib/seaborn)
-</p>
+# Hi there 👋, I'm Eric Sanchez
+
+**Finance Leader | FP&A Manager | 11+ Years**
+
+Driving financial transformations through data-driven insights, 
+process automation & strategic planning.
 
 ---
 
-### 🚀 Sobre mí
-- Admin de Empresas orientado a datos (Bogotá).  
-- **-70%** en tiempos de preparación de reportes y **+25%** en cumplimiento de SLAs en mi último rol.  
-- Finalizando **Bootcamp Data Analytics (Henry, 2025)** — capstone en entrega.  
-- Abierto a **remoto global** (híbrido en Bogotá).
+## About Me
+- 📊 **Expertise:** FP&A | Financial Control | Budget Planning | Data Analytics
+- 💼 **Background:** Business Administration + Data Analytics Bootcamp
+- 🎯 **Current:** Seeking FP&A Manager / Finance Controller roles
+- 📍 **Based in:** Bogotá, Colombia (Hybrid/Remote)
 
-### 🛠️ Lenguajes & Herramientas
-<p>
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=Power%20BI&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C" />
-  <img alt="seaborn" src="https://img.shields.io/badge/Seaborn-4C8CBF" />
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+**Key Results:**
+- 80% debt reduction | 70% automation in reporting | 15% cost optimization
+
+---
+
+## Tech Stack
+
+**Finance Tools:** Excel | Power BI | Power Query | SAP | Navision
+
+**Data & Programming:** SQL | Python | Pandas | NumPy
+
+---
+
+## Projects
+
+- 📊 [Financial Data Analysis Dashboard](https://github.com/ESanchezSalas/covid-analytics-python-powerbi)
+- 📈 [Retail Sales Analytics](https://github.com/ESanchezSalas/excel-cleaning-insights-retail)
+- 🗄️ [SQL Analytics Database](https://github.com/ESanchezSalas/sqlserver-fastfood-analytics)
+
+---
+
+**📧 Contact:** erics1591@hotmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ericsanchezsalas)
 
 ---
 ## 📚 Portafolio
