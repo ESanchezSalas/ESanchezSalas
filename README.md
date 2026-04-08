@@ -6,23 +6,56 @@
 
 # 👋 Hi there, I'm Eric Sanchez
 
-**Finance Leader | FP&A Manager | Financial Control Specialist**
+**Finance & Administrative Leader | FP&A Manager | Financial Control Specialist**
 
-11+ years driving financial transformations in multinational organizations.
-Specialist in financial planning, budget control, process automation & data-driven insights.
+11+ years driving financial & administrative transformations in multinational organizations.
+Specialist in financial planning, administrative management, budget control, process automation & data-driven insights.
 
 ---
 
 ## 🚀 About Me
 
 - **📍 Based in:** Bogotá, D.C., Colombia (Hybrid/Remote)
-- **💼 Current Focus:** FP&A Leadership | Financial Control | Strategic Planning
+- **💼 Current Focus:** FP&A Leadership | Financial Control | Administrative Management | Strategic Planning
 - **🎓 Background:** Business Administration + Data Analytics (Henry Bootcamp, 2025)
 - **💪 Core Strengths:** 
-  - 80% debt reduction through financial modeling
-  - 70% reduction in reporting times via automation
-  - 15% cost optimization through data-driven analysis
+  - 80% debt reduction through financial modeling & restructuring
+  - 70% reduction in reporting/operational times via automation
+  - 15% cost optimization through process improvement & analysis
   - Executive dashboard development & KPI management
+  - Cross-functional team leadership & stakeholder management
+
+---
+
+## 💼 What I Do
+
+### Finance Leadership
+- Develop integrated financial models for forecasting, scenario analysis & variance analysis
+- Design & automate dashboards in Power BI | Excel | Power Query
+- Build executive reports & presentations for C-level decision-making
+- Lead budget planning, cash flow management, tesorería & KPI monitoring
+- Control presupuestal, forecasting & financial performance analysis
+
+### Administrative Management
+- Lead administrative & financial operations at organizational level
+- Design & implement administrative processes & policies
+- Manage HR support, contracts administration & SLAs monitoring
+- Optimize operational workflows & improve efficiency
+- Support vendor management, procurement & internal controls
+- Ensure compliance & governance in financial & administrative areas
+
+### Process Automation & Optimization
+- Automated 70% of financial & administrative reporting processes
+- Standardized reconciliation procedures (bank, A/P, A/R, assets)
+- Designed ETL pipelines for data consolidation across departments
+- Implemented continuous improvement frameworks in operations
+- Led organizational restructuring & efficiency initiatives
+
+### Data-Driven Leadership
+- Analyze financial & operational performance | variances | trends
+- Support strategic decisions with insightful data analysis
+- Bridge finance, operations & administration through collaboration
+- Develop KPIs & performance indicators for organizational excellence
 
 ---
 
@@ -66,25 +99,29 @@ Specialist in financial planning, budget control, process automation & data-driv
 
 ## 💡 Relevant Experience
 
+✅ **Financial & Administrative Leadership**
+- Led administrative & financial operations at national level (Necomplus, 6 years)
+- Managed organizational restructuring & optimization initiatives
+- Supervised administrative teams & cross-functional coordination
+- Ensured compliance & governance in all financial & administrative matters
+
 ✅ **Report Automation & Process Optimization**
-- Automated 70% of financial reporting processes using Power Query & Excel
-- Designed ETL pipelines for data consolidation across multiple sources
-- Standardized reconciliation procedures (bank reconciliation, A/P, A/R)
+- Automated 70% of financial & administrative reporting processes
+- Designed ETL pipelines for data consolidation & unification
+- Standardized procedures: bank reconciliations, A/P, A/R, asset controls
+- Implemented continuous improvement frameworks
 
 ✅ **Financial & Administrative KPIs**
 - Built executive dashboards for strategic decision-making
 - Designed KPI frameworks for operational & financial monitoring
-- Implemented performance indicators for SLA compliance tracking
+- Implemented SLA compliance tracking & performance indicators
+- Cash flow management, budget control & forecasting
 
-✅ **Data Integration & Data Quality**
-- Managed live ETL processes & data unification
-- Implemented data quality frameworks (catalogs, types, Unpivot operations)
-- Designed data cleaning pipelines with automated validations
-
-✅ **Financial Control & Planning**
+✅ **Operational & Financial Control**
 - Budget planning & forecasting | AP/AR management | Bank reconciliation
 - Variance analysis & financial performance monitoring
-- Cash flow projections & working capital optimization
+- Treasury management | Vendor management | Contract administration
+- Internal audit & compliance verification
 
 ---
 
@@ -117,15 +154,17 @@ Specialist in financial planning, budget control, process automation & data-driv
 
 ## 🎯 I'm Open To
 
-- **FP&A Manager** | **Finance Controller** | **Senior Finance Analyst** roles
-- **Financial Planning & Analysis** leadership positions
+- **FP&A Manager** | **Finance Manager** | **Financial Controller** roles
+- **Gerente Administrativo y Financiero** | **Administrative & Finance Director** positions
+- **Finance & Operations Leadership** opportunities
+- **Coordinador Administrativo y Financiero** roles
 - **Fintech/Tech Finance** opportunities in LATAM
-- **Data-Driven Finance** projects
-- **Mentorship** in finance, data analytics & business intelligence
+- **Data-Driven Finance** projects with operational impact
+- **Mentorship** in finance, data analytics & business administration
 
 ---
 
-*"Finance is all about the numbers... unless you work at Amazon. It's knowing the numbers AND so much more."* 📊
+*"Combining financial expertise with administrative excellence to drive organizational growth."* 📊💼
 
 ---
 
